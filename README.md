@@ -91,7 +91,7 @@
 
 
 
-​                                                                              批量下载窗口![](https://raw.githubusercontent.com/MrYxJ/GeGeWenkuDownload/master/%E6%A0%BC%E6%A0%BC%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A82.0/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AD%89/picture/download.png)
+ ​                                                                 
 
 ​            
 
