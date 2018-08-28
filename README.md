@@ -1,4 +1,8 @@
-# 格格百度文库下载程序1.0  说明                                                                                                          						                                                                 														
+# 格格百度文库下载程序1.0 及2.0                                                                                                            						                                                                 														
+
+
+
+## 格格百度文库下载器1.0说明 
 
 ### 程序运行注意
 
@@ -54,6 +58,8 @@
 
 - 多测试一下程序八阿哥（BUG），使其更稳定。
 
+   
+
   ​
 
 ### 主界面部分功能的说明：
@@ -78,15 +84,19 @@
 
 在1.0黑白Dos命令行运行界面基础上，利用PYQT技术撸了更为美观便于使用的界面。但由于没能解决PYQT里线程池的问题，2.0版本的批量下载是单线程按照队列顺序一个一个下载，批量下载速度没有1.0高效，其余功能都和1.0一样。具体请下载体验吧。
 
+​                                                                       格格百度文库下载器2.0   程序主界面
+
+![程序主界面](https://raw.githubusercontent.com/MrYxJ/GeGeWenkuDownload/master/%E6%A0%BC%E6%A0%BC%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A82.0/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AD%89/picture/main.png)
 
 
 
+​                                                                              批量下载窗口![](https://raw.githubusercontent.com/MrYxJ/GeGeWenkuDownload/master/%E6%A0%BC%E6%A0%BC%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A82.0/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AD%89/picture/download.png)
 
 ​            
 
 
 
-
+​                    
 
 
 
